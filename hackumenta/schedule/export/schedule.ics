@@ -1,0 +1,373 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//fahrplan.2019.hackumenta.de//
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-hackumenta-TV9PPK@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T160000
+DTEND;TZID=Europe/Berlin:20191004T000000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Pluto
+SUMMARY:Self-organized Sessions - Du
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/TV9PPK/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-HNFPVC@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T160000
+DTEND;TZID=Europe/Berlin:20191003T161500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Opening - AI
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/HNFPVC/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-KY3M7X@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T163000
+DTEND;TZID=Europe/Berlin:20191003T190000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Barnard
+SUMMARY:Das Hackumenta Badge Löten - analogmultiplizierer
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/KY3M7X/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-FK73M3@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T190000
+DTEND;TZID=Europe/Berlin:20191003T194500
+DESCRIPTION:Eine grundlegende Einführung in die Programmierung paralleler
+ Tasks auf Grafikkarten von NVIDIA.
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:CUDA Basics - dargmuesli
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/FK73M3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-M8X9PD@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T200000
+DTEND;TZID=Europe/Berlin:20191003T213000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Die dreckige Empirie - aiko
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/M8X9PD/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-HBKFP3@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T200000
+DTEND;TZID=Europe/Berlin:20191003T213000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Barnard
+SUMMARY:flipdot Badge Programmierung in Rust - Jaro\, jplatte
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/HBKFP3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-CXHHNV@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T220000
+DTEND;TZID=Europe/Berlin:20191003T224500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:flipdot - was bisher geschah - typ_o
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/CXHHNV/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-LSVEFQ@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T230000
+DTEND;TZID=Europe/Berlin:20191004T010000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Videospiele - BinaerBube
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/LSVEFQ/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-MLPE9J@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191003T230000
+DTEND;TZID=Europe/Berlin:20191004T030000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Calvera
+SUMMARY:DJ-Set (10-03) - cReal
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/MLPE9J/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-WFNEZG@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T160000
+DTEND;TZID=Europe/Berlin:20191004T210000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Pluto
+SUMMARY:Das Hackumenta Badge Löten - analogmultiplizierer
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/WFNEZG/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-UNFRCN@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T160000
+DTEND;TZID=Europe/Berlin:20191004T170000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Mechanische Zeichenmaschine - Generative Kunst mit Arduino und Step
+ per - BinaerBube
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/UNFRCN/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-P7MWRZ@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T171500
+DTEND;TZID=Europe/Berlin:20191004T174500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Terminal & Shell Trivia - feliks\, jplatte
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/P7MWRZ/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-EA7NYT@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T175000
+DTEND;TZID=Europe/Berlin:20191004T183500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Lightning-Talks - alle
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/EA7NYT/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-PBT9NG@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T183000
+DTEND;TZID=Europe/Berlin:20191004T193000
+DESCRIPTION:Lernt einfache (und auch schwierigere) Luftballonfiguren und ne
+ hmt euch euer buntes Andenken mit nach Hause!
+DTSTAMP:20191030T220556Z
+LOCATION:Barnard
+SUMMARY:Tiere aus Luft - Sebastian
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/PBT9NG/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-SB9DFD@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T184500
+DTEND;TZID=Europe/Berlin:20191004T193000
+DESCRIPTION:Advanced Types in TypeScript und was andere Sprachen davon gebr
+ auchen könnten.
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Was andere Sprachen von TypeScript lernen können - nikeee
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/SB9DFD/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-TNJRA8@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T200000
+DTEND;TZID=Europe/Berlin:20191004T210000
+DESCRIPTION:Mehr Geschmack durch die Maillard-Reaktion\, der Stoffwechselzy
+ klus der Hefe\, Hege und Pflege von Gärgasen - alles nur für den guten G
+ eschmack\, die optimali Crispizität und olfaktorische Freuden. Es wird ei
+ ne Geschmacksprobe geben.
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Chemie und Physik beim Kochen und Brot backen - typ_o
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/TNJRA8/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-FQFNDA@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T200000
+DTEND;TZID=Europe/Berlin:20191004T213000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Barnard
+SUMMARY:flipdot Badge Programmierung in Rust - Jaro\, jplatte
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/FQFNDA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-3DK3B3@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T214500
+DTEND;TZID=Europe/Berlin:20191004T221500
+DESCRIPTION:Kurzer Überblick über neue Entwicklungen\, "erfolgreiche" Tes
+ tprojekte und was wir dagegen tun können
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Biometrische Überwachung in Deutschland - unsurv
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/3DK3B3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-FLUGZQ@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T223000
+DTEND;TZID=Europe/Berlin:20191004T231500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Calvera
+SUMMARY:Waldemar\, der Brombeerbluser - Waldemar\, der Brombeerbluser
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/FLUGZQ/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-CSNJQY@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T230000
+DTEND;TZID=Europe/Berlin:20191005T010000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Videospiele (Retro) - BinaerBube
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/CSNJQY/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-7STDQX@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T233000
+DTEND;TZID=Europe/Berlin:20191005T003000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Calvera
+SUMMARY:Lost Jokers -
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/7STDQX/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-RDUPUD@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T003000
+DTEND;TZID=Europe/Berlin:20191005T043000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Calvera
+SUMMARY:DJ Set (10-04) - cReal
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/RDUPUD/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-KLTWU7@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T120000
+DTEND;TZID=Europe/Berlin:20191005T220000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Pluto
+SUMMARY:Self-organized Sessions - Du
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/KLTWU7/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-WFFVUU@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T150000
+DTEND;TZID=Europe/Berlin:20191005T154500
+DESCRIPTION:Wie ein Template und sein Skript den Aufwand eines Wechsels von
+  Entwicklung zu Produktion für Dockerprojekte minimiert.
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:DargStack: Ein Strauß Microservices - dargmuesli
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/WFFVUU/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-GYHTU8@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T160000
+DTEND;TZID=Europe/Berlin:20191005T164500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Blast Procedure – Wie man Party und Videogames vereinen kann - An
+ tares
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/GYHTU8/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-YTTKPG@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T173000
+DTEND;TZID=Europe/Berlin:20191005T183000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Esperanto: Wie funktioniert eine Plansprache? - sven
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/YTTKPG/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-9Q77DL@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T190000
+DTEND;TZID=Europe/Berlin:20191005T203000
+DESCRIPTION:Erstelle eine Abdeckung für deine Smartphonekamera mit FreeCAD
+  und drucke sie anschließend vor Ort mit einem 3D Drucker aus.
+DTSTAMP:20191030T220556Z
+LOCATION:Barnard
+SUMMARY:Cover für Smartphonekamera modellieren und ausdrucken - jakob
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/9Q77DL/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-FHX9QA@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T203000
+DTEND;TZID=Europe/Berlin:20191005T210000
+DESCRIPTION:Eine Einführung in Probabilistische Datenstrukturen\, was für
+  Probleme sie lösen und welche Trade-Offs dabei eine Rolle spielen.
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Wie zählt $BIG_SITE eigentlich Seitenaufrufe? - nikeee
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/FHX9QA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-SGTP8Y@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T211500
+DTEND;TZID=Europe/Berlin:20191005T214500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:flipdot Badge PCB Design - analogmultiplizierer
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/SGTP8Y/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-Z3YBMY@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T214500
+DTEND;TZID=Europe/Berlin:20191005T231500
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Calvera
+SUMMARY:How to DJ - dargmuesli
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/Z3YBMY/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-RWFBQL@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T223000
+DTEND;TZID=Europe/Berlin:20191005T233000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Diskordischer Göttinendienst - dmb
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/RWFBQL/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-H7DRK9@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191006T000000
+DTEND;TZID=Europe/Berlin:20191006T010000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:AI Lesung - AI
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/H7DRK9/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-7NWRPH@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191006T000000
+DTEND;TZID=Europe/Berlin:20191006T040000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Calvera
+SUMMARY:DJ-Set (10-05) - cReal
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/7NWRPH/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-CGLQJN@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191006T160000
+DTEND;TZID=Europe/Berlin:20191006T163000
+DESCRIPTION:
+DTSTAMP:20191030T220556Z
+LOCATION:Proxima b
+SUMMARY:Closing - nxb
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/CGLQJN/
+END:VEVENT
+END:VCALENDAR

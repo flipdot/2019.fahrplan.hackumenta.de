@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: */me/*
+Disallow: */locale/set*
+Disallow: /orga/
+Disallow: /download/
+Disallow: /redirect/
+Disallow: /api/

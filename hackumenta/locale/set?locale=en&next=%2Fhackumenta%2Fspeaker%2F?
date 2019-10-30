@@ -1,0 +1,468 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>  Hackumenta :: pretalx</title>
+    <meta name="title" content="  - Hackumenta pretalx">
+    <meta name="description" content="Schedule, talks and talk submissions for Hackumenta">
+    <meta name="application-name" content="pretalx">
+    <meta name="generator" content="pretalx">
+    <meta name="keywords" content="Hackumenta, hackumenta, 2019, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111111">
+    <meta name="HandheldFriendly" content="True"/>
+
+    <meta property="og:title" content=" Hackumenta">
+    <meta property="og:description" content="Schedule, talks and talk submissions for Hackumenta">
+    <meta property="og:url" content="https://fahrplan.2019.hackumenta.de/hackumenta/speaker/">
+    <meta property="twitter:card" content="summary">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/common/img/favicon-32x32.816e12963927.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/common/img/favicon-16x16.b1e178982893.png">
+
+    <link rel="stylesheet" type="text/css" href="/static/common/scss/uncompressed.ec8d16cc3696.css" />
+
+        <link rel="stylesheet" type="text/css" href="/static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+        <link rel="stylesheet" type="text/css" href="/media/hackumenta/cfp.a7a546b001c9a7ef.css"/>
+        <link rel="stylesheet" type="text/css" href="/media/hackumenta/agenda.620868bb75bcc591.css"/>
+
+    <link rel="stylesheet" type="text/css" href="/media/hackumenta/css/gradientheader.css"/>
+    <script type="text/javascript" src="/static/CACHE/js/output.3cf410ab2389.js" defer></script>
+
+    <link rel="alternate" type="application/atom+xml" title="Hackumenta Schedule Versions" href="/hackumenta/schedule/feed.xml" />
+
+
+
+</head>
+<body>
+    <div id="top-bg" class="header bubbles">
+
+        <img src="/media/hackumenta/img/map_transparent.f15411f8.svg_FNxp49c.png" id="header-image">
+
+    </div>
+
+    <div class="container" id="main-container">
+        <header>
+            <h1>
+                <a href="
+/hackumenta/schedule/
+">
+
+                        Hackumenta
+
+                </a>
+            </h1>
+            <div class="d-flex" id="header-row">
+
+                <div class="locales">
+
+                        <a href="/hackumenta/locale/set?locale=en&next=/hackumenta/speaker/%3F"
+                                class="active">English</a>
+
+                        <a href="/hackumenta/locale/set?locale=de&next=/hackumenta/speaker/%3F"
+                                class="">Deutsch</a>
+
+                    •&nbsp;
+                </div>
+
+
+                <a href="/hackumenta/login/">login</a>
+
+            </div>
+        </header>
+        <div class="card" id="main-card">
+            <main>
+
+
+                        <div class="alert alert-success">
+                            Your locale preferences have been saved. We like to think that we have excellent support for English in pretalx, but if you encounter issues or errors, please contact us!
+                        </div>
+
+
+
+
+
+
+
+
+<nav id="schedule-nav">
+    <div class="navigation">
+        <a href="/hackumenta/schedule/" class="btn btn-outline-success "><i class="fa fa-calendar"></i> Schedule
+        </a><a href="/hackumenta/talk/" class="btn btn-outline-success "><i class="fa fa-comments-o"></i> Talks
+        </a><a href="/hackumenta/speaker/" class="btn btn-outline-success  active"><i class="fa fa-group"></i> Speakers</a>
+    </div>
+    <div class="header-right">
+        <form class="search">
+          <div class="input-group">
+            <input type="text" class="form-control" name="q" placeholder="Title or speaker name">
+            <div class="input-group-append">
+              <button class="btn btn-info" type="submit"><i class="fa fa-search"></i></button>
+            </div>
+          </div>
+        </form>
+    </div>
+</nav>
+
+<p></p>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/SRP87J/"> AI</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/HNFPVC/">“Opening”</a>
+                 |
+
+                <a href="/hackumenta/talk/H7DRK9/">“AI Lesung”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/ZMM897/"> aiko</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/M8X9PD/">“Die dreckige Empirie”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/CCNPCS/"> alle</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/EA7NYT/">“Lightning-Talks”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/DHXZVG/"> analogmultiplizierer</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/SGTP8Y/">“flipdot Badge PCB Design”</a>
+                 |
+
+                <a href="/hackumenta/talk/WFNEZG/">“Das Hackumenta Badge Löten”</a>
+                 |
+
+                <a href="/hackumenta/talk/KY3M7X/">“Das Hackumenta Badge Löten”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/JSGJJA/"> Antares</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/GYHTU8/">“Blast Procedure – Wie man Party und Videogames vereinen kann”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/DKU8FM/"> BinaerBube</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/UNFRCN/">“Mechanische Zeichenmaschine - Generative Kunst mit Arduino und Stepper”</a>
+                 |
+
+                <a href="/hackumenta/talk/CSNJQY/">“Videospiele (Retro)”</a>
+                 |
+
+                <a href="/hackumenta/talk/LSVEFQ/">“Videospiele”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/BVZGDE/"> cReal</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/MLPE9J/">“DJ-Set (10-03)”</a>
+                 |
+
+                <a href="/hackumenta/talk/7NWRPH/">“DJ-Set (10-05)”</a>
+                 |
+
+                <a href="/hackumenta/talk/RDUPUD/">“DJ Set (10-04)”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/LB79DJ/"> dargmuesli</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/FK73M3/">“CUDA Basics”</a>
+                 |
+
+                <a href="/hackumenta/talk/WFFVUU/">“DargStack: Ein Strauß Microservices”</a>
+                 |
+
+                <a href="/hackumenta/talk/Z3YBMY/">“How to DJ”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/USLZPK/"> dmb</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/RWFBQL/">“Diskordischer Göttinendienst”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/8WVDJF/"> Du</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/TV9PPK/">“Self-organized Sessions”</a>
+                 |
+
+                <a href="/hackumenta/talk/KLTWU7/">“Self-organized Sessions”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/HSNGNN/"> feliks</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/P7MWRZ/">“Terminal &amp; Shell Trivia”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/9WUJAU/"> jakob</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/9Q77DL/">“Cover für Smartphonekamera modellieren und ausdrucken”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/SELTKV/"> Jaro</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/HBKFP3/">“flipdot Badge Programmierung in Rust”</a>
+                 |
+
+                <a href="/hackumenta/talk/FQFNDA/">“flipdot Badge Programmierung in Rust”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/KFSU3B/"> jplatte</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/P7MWRZ/">“Terminal &amp; Shell Trivia”</a>
+                 |
+
+                <a href="/hackumenta/talk/HBKFP3/">“flipdot Badge Programmierung in Rust”</a>
+                 |
+
+                <a href="/hackumenta/talk/FQFNDA/">“flipdot Badge Programmierung in Rust”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/VPHY8Y/"> nikeee</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/SB9DFD/">“Was andere Sprachen von TypeScript lernen können”</a>
+                 |
+
+                <a href="/hackumenta/talk/FHX9QA/">“Wie zählt $BIG_SITE eigentlich Seitenaufrufe?”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/LNG7AW/"> nxb</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/CGLQJN/">“Closing”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/8TBSWH/"> Sebastian</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/PBT9NG/">“Tiere aus Luft”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/W8FGUB/"> sven</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/YTTKPG/">“Esperanto: Wie funktioniert eine Plansprache?”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/S8KGUE/"> typ_o</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/CXHHNV/">“flipdot - was bisher geschah”</a>
+                 |
+
+                <a href="/hackumenta/talk/TNJRA8/">“Chemie und Physik beim Kochen und Brot backen”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/UXZGCS/"> unsurv</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/3DK3B3/">“Biometrische Überwachung in Deutschland”</a>
+
+
+
+            <hr>
+
+        </section>
+
+        <section>
+            <h3 class="talk-title">
+                <a href="/hackumenta/speaker/WLBNSZ/"> Waldemar, der Brombeerbluser</a>
+            </h3>
+            <p>
+
+                <a href="/hackumenta/talk/FLUGZQ/">“Waldemar, der Brombeerbluser”</a>
+
+
+
+        </section>
+
+
+
+            </main>
+        </div>
+        <footer>
+
+            <a href="http://pretalx.com" target="_blank" rel="noopener">
+                <img src="/static/common/img/logo.c86a874657c9.svg" alt="The pretalx logo">
+            </a>
+
+                &middot;
+                <a href="mailto:0xa@flipdot.org">Contact us</a>
+
+
+        </footer>
+    </div>
+</body>
+</html>

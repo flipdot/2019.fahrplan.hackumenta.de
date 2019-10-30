@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//fahrplan.2019.hackumenta.de//TNJRA8
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-hackumenta-TNJRA8@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T200000
+DTEND;TZID=Europe/Berlin:20191004T210000
+DESCRIPTION:Mehr Geschmack durch die Maillard-Reaktion\, der Stoffwechselzy
+ klus der Hefe\, Hege und Pflege von Gärgasen - alles nur für den guten G
+ eschmack\, die optimali Crispizität und olfaktorische Freuden. Es wird ei
+ ne Geschmacksprobe geben.
+DTSTAMP:20191030T220631Z
+LOCATION:Proxima b
+SUMMARY:Chemie und Physik beim Kochen und Brot backen - typ_o
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/TNJRA8/
+END:VEVENT
+END:VCALENDAR

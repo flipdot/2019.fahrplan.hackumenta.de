@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//fahrplan.2019.hackumenta.de//hackumenta//VPHY8Y
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-hackumenta-SB9DFD@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191004T184500
+DTEND;TZID=Europe/Berlin:20191004T193000
+DESCRIPTION:Advanced Types in TypeScript und was andere Sprachen davon gebr
+ auchen könnten.
+DTSTAMP:20191030T220655Z
+LOCATION:Proxima b
+SUMMARY:Was andere Sprachen von TypeScript lernen können - nikeee
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/SB9DFD/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-hackumenta-FHX9QA@fahrplan.2019.hackumenta.de
+DTSTART;TZID=Europe/Berlin:20191005T203000
+DTEND;TZID=Europe/Berlin:20191005T210000
+DESCRIPTION:Eine Einführung in Probabilistische Datenstrukturen\, was für
+  Probleme sie lösen und welche Trade-Offs dabei eine Rolle spielen.
+DTSTAMP:20191030T220655Z
+LOCATION:Proxima b
+SUMMARY:Wie zählt $BIG_SITE eigentlich Seitenaufrufe? - nikeee
+URL:http://fahrplan.2019.hackumenta.de/hackumenta/talk/FHX9QA/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+    <vcalendar>
+        <version>2.0</version>
+        <prodid>-//Pentabarf//Schedule//EN</prodid>
+        <x-wr-caldesc></x-wr-caldesc>
+        <x-wr-calname></x-wr-calname>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>HNFPVC@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>334296196</pentabarf:event-id>
+            <pentabarf:event-slug>-HNFPVC</pentabarf:event-slug>
+            <pentabarf:title>Opening</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T160000</dtstart>
+            <dtend>20191003T161500</dtend>
+            <duration>0.01500</duration>
+            <summary>Opening</summary>
+            <description>The opening of the hackumenta in Kassel, Germany will involve two different phases. First, the &quot;hack-lab&quot;, for which the hack will be conducted, will be located at the Kassel University of Applied Sciences. Here hackers will get their first stab at developing their software and testing it with a real life example. Secondly, they will be able to conduct &quot;open&quot; experiments using the platform. This will allow the hackers to connect to the public to make their software even more open and free.
+
+Hackumenta will have up to 50,000 users
+
+The project is the brainchild of Andreas Krawitz and his team from the &quot;Hackumenta&quot; company. The company is a subsidiary of the German Software House of Technology, whose board members include Jurgen Neugebauer, chief executive of Google, Michael Schroeter, head of IBM Research Germany, Dr Ulrich Schäuble, chairman of the German Bundesministerium for Economic Affairs, Erich Honecker and the Chancellor of Bavaria, Horst Seehofer.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/HNFPVC/</url>
+            <location>Proxima b</location>
+
+            <attendee>AI</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>FK73M3@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>240214886</pentabarf:event-id>
+            <pentabarf:event-slug>-FK73M3</pentabarf:event-slug>
+            <pentabarf:title>CUDA Basics</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T190000</dtstart>
+            <dtend>20191003T194500</dtend>
+            <duration>0.04500</duration>
+            <summary>CUDA Basics</summary>
+            <description>Was an Grafikkarten cool ist? Wer über das Alter hinaus ist, in dem man beim Gedanken an Grafikkarten einzig an Spiele und möglichst hohe FPS denkt, weiß sicherlich, dass Grafikkarten für etliche weitere Zwecke zum Einsatz kommen. Hier produzieren sie Cryptowährungen in Mining-Farmen, dort errechnen sie Hashes für alle möglichen Zeichenkombinationen, um auf Passwörter rückschließen zu können.
+Doch wie funktioniert das eigentlich? Wie kann ich meine Grafikkarte programmieren? Wieso nutzen die Programme auf meinem Rechner nicht alle die Grafikkarte, wenn sie doch von einem so beeindruckenden Leistungsplus profitieren könnten? Und wieso möchte ich bei NVIDIA-Grafikkarten eigentlich immer die mit möglichst vielen CUDA-Cores kaufen, obwohl ich keine Ahnung habe, was die tun.
+
+Dieser Talk beleuchtet anhand von NVIDIAs CUDA die genannten Fragestellungen, weist auf architekturbedingt Beachtenswertes hin und vermittelt, dass man seine CPU nicht wegwerfen sollte. Gekrönt wird der Vortrag von einem Blick auf Optimierungsstrategien, die in einem echten Codebeispiel Anwendung finden.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/FK73M3/</url>
+            <location>Proxima b</location>
+
+            <attendee>dargmuesli</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>M8X9PD@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>535391441</pentabarf:event-id>
+            <pentabarf:event-slug>-M8X9PD</pentabarf:event-slug>
+            <pentabarf:title>Die dreckige Empirie</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T200000</dtstart>
+            <dtend>20191003T213000</dtend>
+            <duration>1.03000</duration>
+            <summary>Die dreckige Empirie</summary>
+            <description>Kann man empirischen Studien trauen oder nicht? Wie kann ich gute Studien von schlechten unterscheiden? Und was mache ich, wenn es zu einem Thema Studien mit gegensätzlichen Befunden gibt? Der Vortrag soll helfen, Antworten auf diese Fragen zu finden und empirische Studien besser zu verstehen. Empirischen Studien begegnet man nicht nur in Vorlesungen und Laboren, auch in den Nachrichten und in Diskussionen werden sie zitiert und oft als unumstößliche Wahrheit dargestellt. Andererseits gibt es ein großes Misstrauen gegenüber diesen Studien. Den Satz „Traue keiner Statistik die du nicht selbst gefälscht hast“ hat wohl jeder schon gehört und beim Congress im letzten Jahr hieß es mit Verweis auf psychologische und sozialwissenschaftliche Methoden „Science is broken“. Aber entspricht das wirklich der Wahrheit? Der Vortrag beschäftigt sich mit der Frage, was die Denkweise hinter empirischen Studien ist und wie man sie besser verstehen kann. Dabei sollen sowohl Grundlagen wie Wahrscheinlichkeiten, verschiedene statistische Testverfahren und Metaanlysen als auch Probleme wie p-Hacking und die Replikationskrise angesprochen werden. Ziel des Vortrags ist es, den Zuhörer*innen einen Eindruck davon zu vermitteln, was empirische Studien aussagen können und was nicht. Dabei liegt besonderes Augenmerk auf der Frage, ob und welchen empirischen Studien man trauen kann. Man benötigt keine Vorkenntnisse zum verfolgen des Vortrages. Als Beispiele werden aktuelle und klassische Studien aus der Psychologie benutzt.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/M8X9PD/</url>
+            <location>Proxima b</location>
+
+            <attendee>aiko</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>CXHHNV@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>119217551</pentabarf:event-id>
+            <pentabarf:event-slug>-CXHHNV</pentabarf:event-slug>
+            <pentabarf:title>flipdot - was bisher geschah</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T220000</dtstart>
+            <dtend>20191003T224500</dtend>
+            <duration>0.04500</duration>
+            <summary>flipdot - was bisher geschah</summary>
+            <description>In unserer zehnjährigen Geschichte haben wir einige Orte bespielt, viel Soft- und Hardware erzeugt und Partys und Aktionen gemacht.
+In diesem Talk gibt ein bisschen Erfahrungen aus “How to set up a hackerspace”, Bilder und einige kurze Filme über die letzten zehn Jahre, und ein paar Lessons Learned.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/CXHHNV/</url>
+            <location>Proxima b</location>
+
+            <attendee>typ_o</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>LSVEFQ@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>476487200</pentabarf:event-id>
+            <pentabarf:event-slug>-LSVEFQ</pentabarf:event-slug>
+            <pentabarf:title>Videospiele</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T230000</dtstart>
+            <dtend>20191004T010000</dtend>
+            <duration>2.00000</duration>
+            <summary>Videospiele</summary>
+            <description>Wir zocken Mario Kart 8 DLX, Super Smash Bros. Ultimate und Super Mario Party auf der Switch.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Diskussion</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/LSVEFQ/</url>
+            <location>Proxima b</location>
+
+            <attendee>BinaerBube</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>KY3M7X@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>439275091</pentabarf:event-id>
+            <pentabarf:event-slug>-KY3M7X</pentabarf:event-slug>
+            <pentabarf:title>Das Hackumenta Badge Löten</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T163000</dtstart>
+            <dtend>20191003T190000</dtend>
+            <duration>2.03000</duration>
+            <summary>Das Hackumenta Badge Löten</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/KY3M7X/</url>
+            <location>Barnard</location>
+
+            <attendee>analogmultiplizierer</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>HBKFP3@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>319744286</pentabarf:event-id>
+            <pentabarf:event-slug>-HBKFP3</pentabarf:event-slug>
+            <pentabarf:title>flipdot Badge Programmierung in Rust</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T200000</dtstart>
+            <dtend>20191003T213000</dtend>
+            <duration>1.03000</duration>
+            <summary>flipdot Badge Programmierung in Rust</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/HBKFP3/</url>
+            <location>Barnard</location>
+
+            <attendee>Jaro</attendee>
+
+            <attendee>jplatte</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>MLPE9J@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>513669526</pentabarf:event-id>
+            <pentabarf:event-slug>-MLPE9J</pentabarf:event-slug>
+            <pentabarf:title>DJ-Set (10-03)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T230000</dtstart>
+            <dtend>20191004T030000</dtend>
+            <duration>4.00000</duration>
+            <summary>DJ-Set (10-03)</summary>
+            <description>Warm werden mit DROELOE, über Deep House zu Techno und vielleicht ein bisschen Drum&#39;n&#39;Bass.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Musik</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/MLPE9J/</url>
+            <location>Calvera</location>
+
+            <attendee>cReal</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>TV9PPK@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>798869279</pentabarf:event-id>
+            <pentabarf:event-slug>-TV9PPK</pentabarf:event-slug>
+            <pentabarf:title>Self-organized Sessions</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191003T160000</dtstart>
+            <dtend>20191004T000000</dtend>
+            <duration>8.00000</duration>
+            <summary>Self-organized Sessions</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/TV9PPK/</url>
+            <location>Pluto</location>
+
+            <attendee>Du</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>UNFRCN@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>834087604</pentabarf:event-id>
+            <pentabarf:event-slug>-UNFRCN</pentabarf:event-slug>
+            <pentabarf:title>Mechanische Zeichenmaschine - Generative Kunst mit Arduino und Stepper</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T160000</dtstart>
+            <dtend>20191004T170000</dtend>
+            <duration>1.00000</duration>
+            <summary>Mechanische Zeichenmaschine - Generative Kunst mit Arduino und Stepper</summary>
+            <description>In diesem Talk stelle ich euch meine Zeichenmaschine vor, die mit ein paar Zeilen Code auf einem Arduino, Steppermotoren und ein bisschen Mechanik generative Muster malt.
+Nach einer Vorstellung der Maschine werden wir die natürlich auch direkt anschließen!
+Wer nicht zum Talk nicht kommen kann, findet die Maschine (und mich) in Barnard, wo sich jeder ein eigenes Bild zeichnen lassen kann.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/UNFRCN/</url>
+            <location>Proxima b</location>
+
+            <attendee>BinaerBube</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>P7MWRZ@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>624524909</pentabarf:event-id>
+            <pentabarf:event-slug>-P7MWRZ</pentabarf:event-slug>
+            <pentabarf:title>Terminal &amp; Shell Trivia</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T171500</dtstart>
+            <dtend>20191004T174500</dtend>
+            <duration>0.03000</duration>
+            <summary>Terminal &amp; Shell Trivia</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/P7MWRZ/</url>
+            <location>Proxima b</location>
+
+            <attendee>feliks</attendee>
+
+            <attendee>jplatte</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>EA7NYT@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>182738933</pentabarf:event-id>
+            <pentabarf:event-slug>-EA7NYT</pentabarf:event-slug>
+            <pentabarf:title>Lightning-Talks</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T175000</dtstart>
+            <dtend>20191004T183500</dtend>
+            <duration>0.04500</duration>
+            <summary>Lightning-Talks</summary>
+            <description>Bei unseren Lightning-Talks hast du 5 Minuten Zeit, ein Thema vorzustellen. Es kann dabei alles mögliche sein! Ob ein eigenes Projekt, ein interessanter Fund oder ein Mini-Talk - alles ist gerne gesehen!</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/EA7NYT/</url>
+            <location>Proxima b</location>
+
+            <attendee>alle</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>SB9DFD@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>729367969</pentabarf:event-id>
+            <pentabarf:event-slug>-SB9DFD</pentabarf:event-slug>
+            <pentabarf:title>Was andere Sprachen von TypeScript lernen können</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T184500</dtstart>
+            <dtend>20191004T193000</dtend>
+            <duration>0.04500</duration>
+            <summary>Was andere Sprachen von TypeScript lernen können</summary>
+            <description>TypeScript erfreut sich in der Webentwicklung immer größerer Beliebtheit – aber warum eigentlich? Welche Konzepte würden auch in andere Sprachen ganz gut passen und wie kann man anders über Typen denken?
+In diesem Talk geht es um fortgeschrittene Typisierung in TypeScript anhand von Live-Demos. Wir schauen uns an, wie Fehlerklassen schon vor dem Ausführen des Codes ausgeschlossen werden können. Verwenden werden wir dabei u. A. Union Types, Literal Types, Mapped Types und kontrollflussbasierte Typen.
+
+Dir sagt das nicht viel? Dieser Talk ist dazu da, dich mit diesen Konzepten vertraut zu machen.
+
+**Voraussetzungen**: Ein grundlegendes Verständnis von Programmierung, „Was macht ein Compiler?“ und statischer Typisierung. Von Vorteil wären JavaScript-Kenntnisse.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/SB9DFD/</url>
+            <location>Proxima b</location>
+
+            <attendee>nikeee</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>TNJRA8@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>788770038</pentabarf:event-id>
+            <pentabarf:event-slug>-TNJRA8</pentabarf:event-slug>
+            <pentabarf:title>Chemie und Physik beim Kochen und Brot backen</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T200000</dtstart>
+            <dtend>20191004T210000</dtend>
+            <duration>1.00000</duration>
+            <summary>Chemie und Physik beim Kochen und Brot backen</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/TNJRA8/</url>
+            <location>Proxima b</location>
+
+            <attendee>typ_o</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>3DK3B3@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>1094840722</pentabarf:event-id>
+            <pentabarf:event-slug>-3DK3B3</pentabarf:event-slug>
+            <pentabarf:title>Biometrische Überwachung in Deutschland</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T214500</dtstart>
+            <dtend>20191004T221500</dtend>
+            <duration>0.03000</duration>
+            <summary>Biometrische Überwachung in Deutschland</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/3DK3B3/</url>
+            <location>Proxima b</location>
+
+            <attendee>unsurv</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>CSNJQY@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>112733618</pentabarf:event-id>
+            <pentabarf:event-slug>-CSNJQY</pentabarf:event-slug>
+            <pentabarf:title>Videospiele (Retro)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T230000</dtstart>
+            <dtend>20191005T010000</dtend>
+            <duration>2.00000</duration>
+            <summary>Videospiele (Retro)</summary>
+            <description>Wir zocken Mario All Stars auf der SNES (1992). Wenn sich genug Leute finden, spielen wir das erste Super Mario Bros. gegeneinander: Wer kommt im x Minuten am weitesten?
+Dazu hängt eine Liste in der Gaming Ecke im Proxima B, wo ihr euch eintragen könnt :-)</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/CSNJQY/</url>
+            <location>Proxima b</location>
+
+            <attendee>BinaerBube</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>PBT9NG@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>592696642</pentabarf:event-id>
+            <pentabarf:event-slug>-PBT9NG</pentabarf:event-slug>
+            <pentabarf:title>Tiere aus Luft</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T183000</dtstart>
+            <dtend>20191004T193000</dtend>
+            <duration>1.00000</duration>
+            <summary>Tiere aus Luft</summary>
+            <description>## Luftballonfiguren
+
+Für den bunten Spaß zwischendurch! Sobald ein Luftballon aufgepustet ist, fängt der eigentliche Spaß erst an. Hier könnt ihr lernen, wie man aus einzelnen oder mehreren Luftballons Figuren herstellen kann. Dabei fangen wir mit einfachen Figuren aus einem Luftballon an, werden im Verlauf aber auch schwierigere Figuren lernen.
+
+Jeder der Lust hat mitzumachen ist herzlich zur Teilname eingeladen.
+Die Teilnehmerzahl sollte ungefähr 20 nicht übersteigen.
+
+
+Um das Interesse abschätzen zu können, wäre eine kurze Zusage nett: info@tiereausluft.de
+
+
+
+#### Unter anderem könnt ihr lernen:
+- Die Enterprise (NCC-1701)
+- Säbel
+- Herz
+- U-Boot
+- Katze
+- Teddybär
+- Schwein
+- Blumenhut
+- Insektenhut
+- Hund
+- Laserkanone
+- Axt
+- ...</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/PBT9NG/</url>
+            <location>Barnard</location>
+
+            <attendee>Sebastian</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>FQFNDA@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>246096318</pentabarf:event-id>
+            <pentabarf:event-slug>-FQFNDA</pentabarf:event-slug>
+            <pentabarf:title>flipdot Badge Programmierung in Rust</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T200000</dtstart>
+            <dtend>20191004T213000</dtend>
+            <duration>1.03000</duration>
+            <summary>flipdot Badge Programmierung in Rust</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/FQFNDA/</url>
+            <location>Barnard</location>
+
+            <attendee>Jaro</attendee>
+
+            <attendee>jplatte</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>FLUGZQ@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>241255684</pentabarf:event-id>
+            <pentabarf:event-slug>-FLUGZQ</pentabarf:event-slug>
+            <pentabarf:title>Waldemar, der Brombeerbluser</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T223000</dtstart>
+            <dtend>20191004T231500</dtend>
+            <duration>0.04500</duration>
+            <summary>Waldemar, der Brombeerbluser</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Musik</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/FLUGZQ/</url>
+            <location>Calvera</location>
+
+            <attendee>Waldemar, der Brombeerbluser</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>7STDQX@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>1157939109</pentabarf:event-id>
+            <pentabarf:event-slug>-7STDQX</pentabarf:event-slug>
+            <pentabarf:title>Lost Jokers</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T233000</dtstart>
+            <dtend>20191005T003000</dtend>
+            <duration>1.00000</duration>
+            <summary>Lost Jokers</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Musik</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/7STDQX/</url>
+            <location>Calvera</location>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>RDUPUD@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>686263483</pentabarf:event-id>
+            <pentabarf:event-slug>-RDUPUD</pentabarf:event-slug>
+            <pentabarf:title>DJ Set (10-04)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20191005T003000</dtstart>
+            <dtend>20191005T043000</dtend>
+            <duration>4.00000</duration>
+            <summary>DJ Set (10-04)</summary>
+            <description>Warm werden mit DROELOE, über Deep House zu Techno und vielleicht ein bisschen Drum&#39;n&#39;Bass.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Musik</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/RDUPUD/</url>
+            <location>Calvera</location>
+
+            <attendee>cReal</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>WFNEZG@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>915867220</pentabarf:event-id>
+            <pentabarf:event-slug>-WFNEZG</pentabarf:event-slug>
+            <pentabarf:title>Das Hackumenta Badge Löten</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191004T160000</dtstart>
+            <dtend>20191004T210000</dtend>
+            <duration>5.00000</duration>
+            <summary>Das Hackumenta Badge Löten</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/WFNEZG/</url>
+            <location>Pluto</location>
+
+            <attendee>analogmultiplizierer</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>WFFVUU@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>915609274</pentabarf:event-id>
+            <pentabarf:event-slug>-WFFVUU</pentabarf:event-slug>
+            <pentabarf:title>DargStack: Ein Strauß Microservices</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T150000</dtstart>
+            <dtend>20191005T154500</dtend>
+            <duration>0.04500</duration>
+            <summary>DargStack: Ein Strauß Microservices</summary>
+            <description>Wer seine Website und einen Stapel Tools, wie z. B. CodiMD, Nextcloud und Traefik, immer schon mal als einfache zu verwaltende und dynamische Containerstapel auf seinem Server laufen lassen wollte, ist bei diesem Talk genau richtig.
+
+Nachdem kurz die grundlegende Idee hinter Microservices wiederholt und damit das Publikum auf denselben Stand gebracht wurde, zeigt dieser Talk das Problem der Separierung von Entwicklung und Produktion im sonst doch klar definierten, containerisierten Umfeld auf. Nach Erkennen und Analyse des Problems wird eine mögliche Lösung vorgestellt: DargStack. Ein Template für Projekte, das die Entwicklungskonfiguration voranstellt und die Produktionskonfiguration davon ableitet. Und weil Docker stacks so einfach sind, wird auch der nächste Schritt - das Deployment - mit DargStack anhand der persönlichen Zusammenstellung von Webservices des Vortragenden gezeigt.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/WFFVUU/</url>
+            <location>Proxima b</location>
+
+            <attendee>dargmuesli</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>GYHTU8@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>302307354</pentabarf:event-id>
+            <pentabarf:event-slug>-GYHTU8</pentabarf:event-slug>
+            <pentabarf:title>Blast Procedure – Wie man Party und Videogames vereinen kann</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T160000</dtstart>
+            <dtend>20191005T164500</dtend>
+            <duration>0.04500</duration>
+            <summary>Blast Procedure – Wie man Party und Videogames vereinen kann</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/GYHTU8/</url>
+            <location>Proxima b</location>
+
+            <attendee>Antares</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>YTTKPG@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>1022976060</pentabarf:event-id>
+            <pentabarf:event-slug>-YTTKPG</pentabarf:event-slug>
+            <pentabarf:title>Esperanto: Wie funktioniert eine Plansprache?</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T173000</dtstart>
+            <dtend>20191005T183000</dtend>
+            <duration>1.00000</duration>
+            <summary>Esperanto: Wie funktioniert eine Plansprache?</summary>
+            <description>Eine oder mehrere Fremdsprachen zu beherrschen ist chic, aber der Weg dahin in der Regel steinig: komplizierte Grammatikregeln, unregelmäßige Verben und zahlreiche Ausnahmen machen das Leben schwer. Und dann gerät man nach Jahren des Lernens an einen &quot;Native Speaker&quot;, der so schnell oder in einem Dialekt spricht, dass man kaum ein Wort versteht.
+
+Es ginge aber auch anders. Vor gut 130 Jahren hat sich ein polnischer Augenarzt mit Esperanto eine neue Sprache ausgedacht, die für alle Menschen leicht zu erlernen ist, keine Ausnahmen kennt,  und - weil jeder sie neu lernen muss - möglich macht, dass alle Gesprächspartner auf gleicher Augenhöhe miteinander kommunizieren. Diese eigentlich geniale und gleichzeitig utopische Idee hat sich offensichtlich bis heute nicht durchgesetzt, aber Esperanto ist unter den sog. Plansprachen diejenige, welche die größte Verbreitung und Aufmerksamkeit gefunden hat. Schon deshalb lohnt ein Blick auf die Entstehung, Geschichte und den aktuellen Status der Sprache. Es werden auch wichtige Ressourcen zu Esperanto im Internet gezeigt.
+
+Und weil die Sprache so einfach ist, wird in diesem Talk gleich ein Mini-Sprachkurs mitgeliefert.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/YTTKPG/</url>
+            <location>Proxima b</location>
+
+            <attendee>sven</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>FHX9QA@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>237388544</pentabarf:event-id>
+            <pentabarf:event-slug>-FHX9QA</pentabarf:event-slug>
+            <pentabarf:title>Wie zählt $BIG_SITE eigentlich Seitenaufrufe?</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T203000</dtstart>
+            <dtend>20191005T210000</dtend>
+            <duration>0.03000</duration>
+            <summary>Wie zählt $BIG_SITE eigentlich Seitenaufrufe?</summary>
+            <description>Reddit, Facebook, Twitter und co. haben unheimlich große Nutzer- und Zugriffszahlen. Diese zu zählen stellt selbst diese großen Konzerne vor ein Problem, denn einfache Zugriffstabellen können dabei an ihr Limit kommen.
+Glücklicherweise brauchen wir nicht überall genauen Zahlen – meist reicht eine Schätzung, die „gut genug“ ist.
+Für diese Art von Problemen wurden probabilistische Datenstrukturen erfunden.
+
+Auf dem Weg zu einem probabilistischen Zähler schauen wir uns ein ähnliches Problem an:
+Wie überprüft Chrome eigentlich, ob eine Webseite in einer Blockiste ist?
+
+Am Ende dieses Talks haben wir zwei Lösungen kennengelernt, die uns abschätzende Antworten auf die Fragen „Wie viele Elemente sind in unserer Menge?“ (HyperLogLog) und „Ist dieses Element enthalten?“ (Bloom-Filter) geben können.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/FHX9QA/</url>
+            <location>Proxima b</location>
+
+            <attendee>nikeee</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>SGTP8Y@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>735668902</pentabarf:event-id>
+            <pentabarf:event-slug>-SGTP8Y</pentabarf:event-slug>
+            <pentabarf:title>flipdot Badge PCB Design</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T211500</dtstart>
+            <dtend>20191005T214500</dtend>
+            <duration>0.03000</duration>
+            <summary>flipdot Badge PCB Design</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/SGTP8Y/</url>
+            <location>Proxima b</location>
+
+            <attendee>analogmultiplizierer</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>RWFBQL@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>708456242</pentabarf:event-id>
+            <pentabarf:event-slug>-RWFBQL</pentabarf:event-slug>
+            <pentabarf:title>Diskordischer Göttinendienst</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T223000</dtstart>
+            <dtend>20191005T233000</dtend>
+            <duration>1.00000</duration>
+            <summary>Diskordischer Göttinendienst</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/RWFBQL/</url>
+            <location>Proxima b</location>
+
+            <attendee>dmb</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>H7DRK9@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>351591953</pentabarf:event-id>
+            <pentabarf:event-slug>-H7DRK9</pentabarf:event-slug>
+            <pentabarf:title>AI Lesung</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191006T000000</dtstart>
+            <dtend>20191006T010000</dtend>
+            <duration>1.00000</duration>
+            <summary>AI Lesung</summary>
+            <description>Spaß mit [talktotransformer.com](https://talktotransformer.com).</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Diskussion</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/H7DRK9/</url>
+            <location>Proxima b</location>
+
+            <attendee>AI</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>9Q77DL@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>1246476764</pentabarf:event-id>
+            <pentabarf:event-slug>-9Q77DL</pentabarf:event-slug>
+            <pentabarf:title>Cover für Smartphonekamera modellieren und ausdrucken</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T190000</dtstart>
+            <dtend>20191005T203000</dtend>
+            <duration>1.03000</duration>
+            <summary>Cover für Smartphonekamera modellieren und ausdrucken</summary>
+            <description>Im Workshop zeige ich die Grundlagen zum erstellen eines CAD Modells mit FreeCAD.
+
+Jede*r kann sich ein Cover zum abdecken für die Kamera seines eigenen Smartphones erstellen und anschließend ausdrucken. CAD-Software ist im Detail oft sehr komplex. Die Grundlagen, um die es in diesem Workshop gehen soll, sind jedoch bei den meisten sehr änlich, leicht anzuwenden und reichen aus, um eigene Modelle für Reperaturen und andere Basteleien zu konstruieren.
+
+Das Cover besteht aus zwei Teilen. Einen Rahmen, der mit doppelseitigem Klebeband auf die Linse geklebt wird und einer kleinen Platte, die in den Rahmen geschoben werden kann. Wenn man ein Foto machen möchte, kann man das Cover einfach herausziehen.
+
+Bitte bringt nach Möglichkeit euren eigenen Laptop mit. Vor Ort ist nur eine begrenzte Anzahl an PCs verfügbar.
+Auf dem Laptop sollte bereits FreeCAD (https://www.freecadweb.org/) installiert sein.
+Wer außerdem einen Messschieber oder ein Stahllineal zu Hause hat, kann das ebenfalls mitbringen (ein normales Lineal tut es auch, mit einem Messschieber geht es aber besser).</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/9Q77DL/</url>
+            <location>Barnard</location>
+
+            <attendee>jakob</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>Z3YBMY@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>1077953056</pentabarf:event-id>
+            <pentabarf:event-slug>-Z3YBMY</pentabarf:event-slug>
+            <pentabarf:title>How to DJ</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191005T214500</dtstart>
+            <dtend>20191005T231500</dtend>
+            <duration>1.03000</duration>
+            <summary>How to DJ</summary>
+            <description>Teilnehmer, die sich selbst am Mischpult ausprobieren wollen, melden sich bitte unter e-mail@jonas-thelemann.de an. Wenn (mind. 20) eigene MP3s mitgebracht werden können, bitte in der Mail einen Link mitschicken, über den der Workshopleiter die MP3s vorher herunterladen und vorbereiten kann. Für den eigenen Spaß eignen sich am besten Lieder mit ähnlicher BPM (Geschwindigkeit).</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/Z3YBMY/</url>
+            <location>Calvera</location>
+
+            <attendee>dargmuesli</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>7NWRPH@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>1152725501</pentabarf:event-id>
+            <pentabarf:event-slug>-7NWRPH</pentabarf:event-slug>
+            <pentabarf:title>DJ-Set (10-05)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191006T000000</dtstart>
+            <dtend>20191006T040000</dtend>
+            <duration>4.00000</duration>
+            <summary>DJ-Set (10-05)</summary>
+            <description>Warm werden mit DROELOE, über Deep House zu Techno und vielleicht ein bisschen Drum&#39;n&#39;Bass.</description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Musik</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/7NWRPH/</url>
+            <location>Calvera</location>
+
+            <attendee>cReal</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>KLTWU7@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>422974101</pentabarf:event-id>
+            <pentabarf:event-slug>-KLTWU7</pentabarf:event-slug>
+            <pentabarf:title>Self-organized Sessions</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>en</pentabarf:language>
+            <pentabarf:language-code>en</pentabarf:language-code>
+            <dtstart>20191005T120000</dtstart>
+            <dtend>20191005T220000</dtend>
+            <duration>10.00000</duration>
+            <summary>Self-organized Sessions</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Workshop</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/KLTWU7/</url>
+            <location>Pluto</location>
+
+            <attendee>Du</attendee>
+
+        </vevent>
+
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>CGLQJN@@fahrplan.2019.hackumenta.de</uid>
+            <pentabarf:event-id>99298372</pentabarf:event-id>
+            <pentabarf:event-slug>-CGLQJN</pentabarf:event-slug>
+            <pentabarf:title>Closing</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>de</pentabarf:language>
+            <pentabarf:language-code>de</pentabarf:language-code>
+            <dtstart>20191006T160000</dtstart>
+            <dtend>20191006T163000</dtend>
+            <duration>0.03000</duration>
+            <summary>Closing</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Talk</category>
+            <url>http://fahrplan.2019.hackumenta.de/hackumenta/talk/CGLQJN/</url>
+            <location>Proxima b</location>
+
+            <attendee>nxb</attendee>
+
+        </vevent>
+
+    </vcalendar>
+</iCalendar>
